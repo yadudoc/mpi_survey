@@ -1,0 +1,43 @@
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] Processor : midway3-0205.rcc.local
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] Processor : midway3-0206.rcc.local
+[Rank:0] Processor : midway3-0092.rcc.local
+[Rank:0] Processor : midway3-0204.rcc.local
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+srun: Job 5584465 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5584465 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5584465 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5584465 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5584465
+srun: Step created for job 5584465
+[Rank:0] Done sleeping. MPI Finalize
+srun: Job 5584465 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5584465 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5584465
+srun: Job 5584465 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5584465
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] (null) CONDA_SHLVL=1
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] Processor : midway3-0205.rcc.local
+[Rank:0] Processor : midway3-0206.rcc.local
+[Rank:0] Processor : midway3-0092.rcc.local
+[Rank:0] Processor : midway3-0204.rcc.local
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
