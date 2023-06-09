@@ -1,0 +1,274 @@
+*************************************
+APRUN Launch 4 ranks over 4 nodes times 8
+*************************************
+[Rank:3] Processor : nid00004
+[Rank:2] Processor : nid00004
+[Rank:0] Processor : nid00004
+[Rank:1] Processor : nid00004
+[Rank:1] Processor : nid00006
+[Rank:0] Processor : nid00006
+[Rank:2] Processor : nid00006
+[Rank:3] Processor : nid00006
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] Sleeping for 30 seconds
+[Rank:2] Sleeping for 30 seconds
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] Sleeping for 30 seconds
+[Rank:3] Sleeping for 30 seconds
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:3] Processor : nid00010
+[Rank:2] Processor : nid00010
+[Rank:1] Processor : nid00010
+[Rank:0] Processor : nid00010
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] Sleeping for 30 seconds
+[Rank:2] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+Application 28355856 resources: utime ~0s, stime ~1s, Rss ~7048, inblocks ~0, outblocks ~8
+Application 28355857 resources: utime ~0s, stime ~1s, Rss ~7040, inblocks ~0, outblocks ~8
+Application 28355858 resources: utime ~0s, stime ~1s, Rss ~7024, inblocks ~0, outblocks ~8
+[Rank:2] Processor : nid00003
+[Rank:3] Processor : nid00003
+[Rank:0] Processor : nid00003
+[Rank:1] Processor : nid00003
+[Rank:1] Processor : nid00004
+[Rank:3] Processor : nid00004
+[Rank:2] Processor : nid00004
+[Rank:0] Processor : nid00004
+[Rank:3] Processor : nid00006
+[Rank:2] Processor : nid00006
+[Rank:0] Processor : nid00006
+[Rank:1] Processor : nid00006
+[Rank:2] Processor : nid00010
+[Rank:3] Processor : nid00010
+[Rank:1] Processor : nid00010
+[Rank:0] Processor : nid00010
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] Sleeping for 30 seconds
+[Rank:3] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:3] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] Sleeping for 30 seconds
+[Rank:1] Sleeping for 30 seconds
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] Sleeping for 30 seconds
+[Rank:2] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:0] Sleeping for 30 seconds
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] Sleeping for 30 seconds
+[Rank:2] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+Application 28355860 resources: utime ~0s, stime ~1s, Rss ~7048, inblocks ~0, outblocks ~8
+Application 28355861 resources: utime ~0s, stime ~1s, Rss ~7040, inblocks ~0, outblocks ~8
+Application 28355859 resources: utime ~0s, stime ~1s, Rss ~7056, inblocks ~0, outblocks ~8
+Application 28355862 resources: utime ~0s, stime ~1s, Rss ~7024, inblocks ~0, outblocks ~8
+[Rank:3] Processor : nid00003
+[Rank:2] Processor : nid00003
+[Rank:1] Processor : nid00003
+[Rank:0] Processor : nid00003
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] Sleeping for 30 seconds
+[Rank:2] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+Application 28355863 resources: utime ~0s, stime ~1s, Rss ~7056, inblocks ~0, outblocks ~8
+*************************************
+APRUN Launch 8 ranks on 4 nodes times 4
+*************************************
+[Rank:3] Processor : nid00004
+[Rank:2] Processor : nid00004
+[Rank:1] Processor : nid00004
+[Rank:0] Processor : nid00004
+[Rank:6] Processor : nid00006
+[Rank:7] Processor : nid00006
+[Rank:4] Processor : nid00006
+[Rank:5] Processor : nid00006
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] Sleeping for 30 seconds
+[Rank:3] Sleeping for 30 seconds
+[Rank:1] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:6] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:7] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:5] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:4] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:6] Sleeping for 30 seconds
+[Rank:7] Sleeping for 30 seconds
+[Rank:5] Sleeping for 30 seconds
+[Rank:4] Sleeping for 30 seconds
+[Rank:3] Processor : nid00003
+[Rank:0] Processor : nid00003
+[Rank:1] Processor : nid00003
+[Rank:2] Processor : nid00003
+[Rank:7] Processor : nid00010
+[Rank:6] Processor : nid00010
+[Rank:5] Processor : nid00010
+[Rank:4] Processor : nid00010
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] Sleeping for 30 seconds
+[Rank:1] Sleeping for 30 seconds
+[Rank:3] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:7] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:6] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:7] Sleeping for 30 seconds
+[Rank:6] Sleeping for 30 seconds
+[Rank:5] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:5] Sleeping for 30 seconds
+[Rank:4] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:4] Sleeping for 30 seconds
+[Rank:6] Done sleeping. MPI Finalize
+[Rank:7] Done sleeping. MPI Finalize
+[Rank:4] Done sleeping. MPI Finalize
+[Rank:5] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+Application 28355864 resources: utime ~0s, stime ~2s, Rss ~19132, inblocks ~0, outblocks ~8
+[Rank:6] Done sleeping. MPI Finalize
+[Rank:7] Done sleeping. MPI Finalize
+[Rank:5] Done sleeping. MPI Finalize
+[Rank:4] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+Application 28355865 resources: utime ~0s, stime ~2s, Rss ~19080, inblocks ~0, outblocks ~8
+[Rank:6] Processor : nid00006
+[Rank:7] Processor : nid00006
+[Rank:5] Processor : nid00006
+[Rank:4] Processor : nid00006
+[Rank:3] Processor : nid00004
+[Rank:2] Processor : nid00004
+[Rank:1] Processor : nid00004
+[Rank:0] Processor : nid00004
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] Sleeping for 30 seconds
+[Rank:2] Sleeping for 30 seconds
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] Sleeping for 30 seconds
+[Rank:7] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:6] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:5] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:7] Sleeping for 30 seconds
+[Rank:6] Sleeping for 30 seconds
+[Rank:5] Sleeping for 30 seconds
+[Rank:4] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:4] Sleeping for 30 seconds
+[Rank:2] Processor : nid00003
+[Rank:3] Processor : nid00003
+[Rank:0] Processor : nid00003
+[Rank:1] Processor : nid00003
+[Rank:2] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:3] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:0] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:2] Sleeping for 30 seconds
+[Rank:3] Sleeping for 30 seconds
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:1] Sleeping for 30 seconds
+[Rank:7] Processor : nid00010
+[Rank:6] Processor : nid00010
+[Rank:5] Processor : nid00010
+[Rank:4] Processor : nid00010
+[Rank:7] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:6] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:7] Sleeping for 30 seconds
+[Rank:6] Sleeping for 30 seconds
+[Rank:4] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:4] Sleeping for 30 seconds
+[Rank:5] (null) COBALT_BLOCKNAME=3-4,6,10
+[Rank:5] Sleeping for 30 seconds
+[Rank:6] Done sleeping. MPI Finalize
+[Rank:7] Done sleeping. MPI Finalize
+[Rank:4] Done sleeping. MPI Finalize
+[Rank:5] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:2] Done sleeping. MPI Finalize
+Application 28355866 resources: utime ~0s, stime ~2s, Rss ~19100, inblocks ~0, outblocks ~8
+[Rank:2] Done sleeping. MPI Finalize
+[Rank:3] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:7] Done sleeping. MPI Finalize
+[Rank:6] Done sleeping. MPI Finalize
+[Rank:4] Done sleeping. MPI Finalize
+[Rank:5] Done sleeping. MPI Finalize
+Application 28355867 resources: utime ~1s, stime ~2s, Rss ~19104, inblocks ~0, outblocks ~8
