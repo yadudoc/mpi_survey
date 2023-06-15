@@ -1,4 +1,5 @@
-CC=mpicc
+CC=cc
+
 
 CFLAGS = -Wall -g -lm -fopenmp -DDEBUG
 

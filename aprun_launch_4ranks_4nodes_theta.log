@@ -1,0 +1,39 @@
+*************************************
+APRUN Launch mpi app with 2 ranks over 2 nodes
+*************************************
+[Rank:0] Processor : nid00010
+[Rank:0] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] Processor : nid00011
+[Rank:1] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:1] Sleeping for 30 seconds
+[Rank:0] Processor : nid00020
+[Rank:0] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] Processor : nid00021
+[Rank:1] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:1] Sleeping for 30 seconds
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+Application 28371913 resources: utime ~0s, stime ~2s, Rss ~19204, inblocks ~0, outblocks ~8
+Application 28371914 resources: utime ~0s, stime ~2s, Rss ~19204, inblocks ~0, outblocks ~8
+[Rank:0] Processor : nid00020
+[Rank:0] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:0] Sleeping for 30 seconds
+[Rank:1] Processor : nid00021
+[Rank:1] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:1] Sleeping for 30 seconds
+[Rank:1] Processor : nid00011
+[Rank:1] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:1] Sleeping for 30 seconds
+[Rank:0] Processor : nid00010
+[Rank:0] (null) COBALT_BLOCKNAME=10-11,20-21
+[Rank:0] Sleeping for 30 seconds
+[Rank:0] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:1] Done sleeping. MPI Finalize
+[Rank:0] Done sleeping. MPI Finalize
+Application 28371919 resources: utime ~0s, stime ~2s, Rss ~19204, inblocks ~0, outblocks ~8
+Application 28371920 resources: utime ~0s, stime ~2s, Rss ~19204, inblocks ~0, outblocks ~8
